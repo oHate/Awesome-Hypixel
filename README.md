@@ -42,22 +42,46 @@ A curated list of awesome Hypixel api wrappers, discord bots, websites and mods 
 
 ## Mods
 
+- [Apec](https://www.curseforge.com/minecraft/mc-mods/apec) - This mod changes the Gui of the game to be more suited for Hypixel Skyblock.
+- [AutoGG](https://github.com/Sk1erLLC/AutoGG) - Automatically say a selected phrase after a game has ended on supported servers.
+- [Autocomplete](https://github.com/Sk1erLLC/Hypixel-Autocomplete-Mod) - Autocomplete support for Hypixel commands.
+- [Autotip](https://github.com/Sk1erLLC/Autotip) - A Forge modification that tips boosters and other users in gamemodes without an active booster.
 - [Autotip](https://github.com/semx11/autotip) - This Forge mod automatically tips all active Network Boosters and other Autotip users on the Hypixel Network (hypixel.net), allowing the user to collect coins, karma, and experience (earnable currencies) over time.
+- [Bazaar Notifier](https://github.com/symt/BazaarNotifier) - Mod and Discord Bot for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements.
 - [Bedwars Helper](https://github.com/leo3418/hbwhelper) - Hypixel Bed Wars Helper Minecraft Forge mod.
+- [Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display) - Bedwars Resource Display displays the amount of each resource you have in Bedwars.
+- [Cowlection](https://github.com/cow-mc/Cowlection) - Cowlection is a client-side-only Forge mod by Cow for Minecraft version 1.8.9. It is a collection of different features mainly focused on Hypixel SkyBlock.
+- [Dankers Skyblock Mod](https://github.com/bowser0000/skyblockmod) - QOL changes that enhances your Hypixel Skyblock experience.
+- [DiscordRP](https://api.linfoot.dev/v2/discordrp/1.2.4/) - Discord Rich Presence mod for Minecraft, in particular for Hypixel.
 - [Dungeon Rooms Mod](https://github.com/quantizr/dungeonroomsmod) - This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding.
+- [Fancy Warp Menu](https://github.com/ILikePlayingGames/FancyWarpMenu) - A prettier warp menu for Hypixel SkyBlock.
 - [Firmament](https://github.com/romangraef/firmament) - Hypixel SkyBlock mod for 1.20.
+- [Ghost Tracker](https://github.com/llFireAndIcell/GhostTracker) - A mod for Hypixel Skyblock that tracks and displays info while ghost grinding.
+- [Hyblock Rng Analyzer](https://github.com/doej1367/HyblockRngAnalyzer) - A data collector mod on all things Hypixel Skyblock with the goal to figure out as many drop chances as possible.
 - [Hytilities](https://github.com/sk1erllc/hytilities) - Hytilities is a Hypixel focused Forge 1.8.9 mod, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!
+- [Level Head](https://github.com/Sk1erLLC/Levelhead) - Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.
+- [Lobby Sounds](https://github.com/Sk1erLLC/LobbySounds) - Disable annoying sounds on Hypixel.
 - [Megawalls Enhancements](https://github.com/alexdoru/megawallsenhancements) - A minecraft forge 1.8.9 mod for PVP & Mega Walls.
+- [Nick Hider](https://sk1er.club/mods/nick_hider) - The purpose of this mod is to provide a better experience to those who choose to share their game with others.
+- [Not Enough Coins](https://github.com/NotEnoughCoins/NotEnoughCoins) - A Skyblock Flipping Mod.
 - [NotEnoughUpdates](https://github.com/notenoughupdates/notenoughupdates) - NotEnoughUpdates (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
+- [Partly Sane Skies](https://github.com/PartlySaneStudios/partly-sane-skies) - Partly Sane Skies is a Minecraft mod for Hypixel SkyBlock.
+- [Popup Events](https://github.com/Sk1erLLC/PopupEvents) - Allows you to easily accept/deny a party invite/friend request.
 - [Quickplay](https://github.com/quickplaymod/quickplay) - Minecraft mod that allows Hypixel users to quickly join games and execute functions on the network.
 - [Reward Claim](https://github.com/thatgravyboat/rewardclaim) - Reward Claim is a mod that allows you to claim Hypixel daily rewards in-game rather than through their site and leaving the game.
 - [SimpleStats](https://github.com/mew/simplestats) - In-game stats viewer.
+- [Sky Guide](https://github.com/DeDiamondPro/SkyGuide) - A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way.
 - [SkyPixel](https://github.com/prplz/skypixel) - A mod providing useful things for Hypixel Skyblock.
 - [Skyblock Addons](https://github.com/biscuitdevelopment/skyblockaddons) - A Minecraft Forge mod with many features to make your Hypixel Skyblock experience better.
-- [Skyblock Mod](https://github.com/bowser0000/skyblockmod) - QOL changes that enhances your Hypixel Skyblock experience.
+- [Skyblock Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide) - A mod designed to help hypixel skyblock dungeons players find secrets and solve puzzles. Also comes with lots of QOL Features.
+- [Skyblock Level Changer](https://github.com/sermister1/SkyblockLevelChanger) - Client-side Hypixel Skyblock level color(as for now) changer.
 - [Skyblockcatia](https://github.com/stevekung/skyblockcatia) - Useful Hypixel Skyblock features, QOL and In-game API Viewer.
+- [Skyblocker](https://github.com/SkyblockerMod/Skyblocker) - Hypixel Skyblock fabric Mod for 1.17-1.20
 - [Skyhanni](https://github.com/hannibal002/skyhanni) - SkyHanni is a Forge mod for Minecraft 1.8.9. It adds many features to Hypixel SkyBlock. The mod is filled with GUIs, extra chat messages, reminders, message hiders and entity highlighters. The majority of these features are centered on the Garden, Slayer, Bingo, Diana, and Rift.
 - [Skytils Mod](https://github.com/skytils/skytilsmod) - A Hypixel Skyblock Utilities mod.
+- [SoopyV2](https://github.com/Soopyboo32/SoopyV2) - A chattriggers module for Hypixel Skyblock that adds many quality of life features.
+- [Water Solver](https://github.com/Desco1/WaterSolver) - A simple Water Board solver.
+- [Wool Wars Plus](https://github.com/Mqlvin/wool-wars-plus) - A Minecraft Forge mod providing QOL features to the Hypixel gamemode WoolWars.
 - [Zealot Counter](https://github.com/symt/zealot-counter) - Zealot counter for Hypixel Skyblock.
 
 ## Discord Bots
